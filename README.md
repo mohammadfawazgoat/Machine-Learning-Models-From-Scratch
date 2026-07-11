@@ -22,7 +22,7 @@ This repository contains implementations of popular Machine Learning algorithms 
 | ✅ Linear Regression | Completed |
 | ✅ Multiple Linear Regression | Completed |
 | ✅ Logistic Regression | Completed |
-| ⏳ Support Vector Machine | In Progress |
+| ✅ Support Vector Machine | Completed |
 | ⏳ K-Nearest Neighbors | Coming Soon |
 | ⏳ Decision Tree | Coming Soon |
 | ⏳ Random Forest | Coming Soon |
